@@ -1,10 +1,7 @@
 # csarch1-hdl1
 **CSARCH1 Major Course Output 1: HDL Project 1**
 
-A boolean function implemented in an iVerilog behavioral model HDL program with 
-
-### Pertinent Links:
-[Project Specifications]()<br>
+A boolean function implemented in an iVerilog behavioral model HDL program with its corresponding GTKWave output
 
 ---
 
